@@ -24,7 +24,7 @@
 ## Research and Papers
 
 - 🧠 **[BCAS_RAG](https://github.com/kmccleary3301/BCAS_RAG)** - code for the BCAS RAG paper
-- 📡 **tracer_ids** - network anomaly detection using Mamba2
+- 📡 **[tracer_ids](https://github.com/kmccleary3301/tracer_ids)** - network anomaly detection using Mamba2
 - 🔬 **[nested_learning](https://github.com/kmccleary3301/nested_learning)** - open reproduction of Google's Nested Learning / HOPE architecture
 - 💾 **[memory_caching](https://github.com/kmccleary3301/memory_caching)** - runtime package and reproduction scaffold for Memory Caching
 - 🌫️ **[drift_models](https://github.com/kmccleary3301/drift_models)** - installable reproduction of *Generative Modeling via Drifting*
