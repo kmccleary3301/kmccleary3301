@@ -11,7 +11,7 @@
 ![Agents](https://img.shields.io/badge/-Agents-121212?style=flat-square)
 ![Retrieval](https://img.shields.io/badge/-Retrieval-4C1D95?style=flat-square)
 
-> I build systems that are easier to inspect than to hype. Most of my work turns traces, contracts, artifacts, and evaluations into first-class objects.
+> I build robust software for research and infra. I place a premium on building high-velocity, high-versatility primitives that can be reused across projects. Most of my work turns traces, contracts, artifacts, and evaluations into first-class objects.
 
 ## Current Projects
 
